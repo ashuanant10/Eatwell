@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.tabs.location": "right",
+    "terminal.integrated.defaultLocation": "editor",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.autoLockGroups": {
+        "terminalEditor": false
+    }
+}
