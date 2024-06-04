@@ -1,16 +1,1 @@
-[
-    {
-        "name": "Test",
-        "address": "TestStreet 5, TestCity",
-        "cuisine": "Italian",
-        "website": "https://mytest.com",
-        "description": "It's Awesome!!!"
-    },
-    {
-        "name": "Test",
-        "address": "TestStreet 10, TestCity",
-        "cuisine": "Indian",
-        "website": "https://mytest2.com",
-        "description": "It's Good!"
-    }
-]
+[{"id":"r1","name":"Test","address":"TestStreet 5, TestCity","cuisine":"Italian","website":"https://mytest.com","description":"It's Awesome!!!"},{"id":"r2","name":"Test","address":"TestStreet 10, TestCity","cuisine":"Indian","website":"https://mytest2.com","description":"It's Good!"},{"id":"r3","name":"Test3","address":"TestStreet 15, TestCity","cuisine":"South Indian","website":"https://mytest3.com","description":"Anna come here!"},{"name":"Shiv Shakti Restro","address":"Main Road Arwal","cuisine":"Bihari Style","website":"https://shivshaktirestro.com","description":"Ek baar aaoge, toh baar baar khaaoge!!!!"},{"name":"Ashutosh Anant","address":"Sikkim Manipal Institute Of technology, old Boys hostel, majhitar, rangpo , Sikkim","cuisine":"Italian","website":"https://shivshaktirestro.com","description":"Awesome!!!\r\n","id":"d7110602-5005-4a00-aceb-94554bed32ac"},{"name":"Ashutosh Anant","address":"Patna, Bihar","cuisine":"Mexican","website":"https://fynd.keka.com/careers/jobdetails/54922","description":"Loved IT","id":"8ba4444f-0a7c-4dc7-bd73-cd2c6a106c7e"}]
